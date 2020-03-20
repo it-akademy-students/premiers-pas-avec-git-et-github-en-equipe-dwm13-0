@@ -2,4 +2,5 @@
 # hoplaaa
 **Terme** : Définition
 **Terme 2**: Définition2
-Fixed bug#2
+Fix bug#2
+fix bug#3
