@@ -1,4 +1,5 @@
 # Lexique blabla
 
 **Terme** : Définition
-#This is an <h1> title
+**Terme 2**: Définition2
+Fixed bug#2
