@@ -6,3 +6,4 @@ Fix bug#2
 fix bug#3
 n'importe quoi
 sefef
+voila pour issue 2
