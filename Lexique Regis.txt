@@ -12,5 +12,6 @@ HTML   (HyperText Markup Language) langage de balisage permettant la création d
 CSS    (Cascading Style Sheets)Il permet d'ajouter du style dans la pages internet 
 PHP    (Hypertext Preprocessor)
 JAVA
-JS
+JS ( javascript)
 TLS
+IDE (integrated development environment)
