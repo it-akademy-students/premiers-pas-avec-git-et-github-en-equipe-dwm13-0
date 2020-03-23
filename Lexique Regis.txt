@@ -11,6 +11,7 @@ NTP    (Network Time Protocole ) un protocole synchronisant les réseaux sur l'h
 HTML   (HyperText Markup Language) langage de balisage permettant la création de pages Web
 CSS    (Cascading Style Sheets)Il permet d'ajouter du style dans la pages internet 
 PHP    (Hypertext Preprocessor)
-JAVA
-JS
-TLS
+JS     (javascript)
+TLS    (Transport Layer Security)
+IDE    (integrated development environment)
+CRLF = (Carriage Return Line Feed)
